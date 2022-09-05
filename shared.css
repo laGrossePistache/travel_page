@@ -9,7 +9,9 @@ ul{
     padding: 0;
 }
 
-a{
+nav a{
+    text-decoration: none;
+    color: rgb(245, 243, 160);
 }
 
 header{
