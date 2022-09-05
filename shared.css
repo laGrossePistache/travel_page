@@ -9,20 +9,23 @@ ul{
     padding: 0;
 }
 
-header{
-    display: flex;
-    justify-content: space-between
+a{
 }
 
-header nav ul{
+header{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 15px 60px;
+}
+
+header ul{
     display: flex;
     align-items: center;
-    margin-top: 24px;
-    width: 200px;
     justify-content: flex-end;
 }
 
-header nav ul li{
+header li{
     margin: 0 12px;
 }
 
